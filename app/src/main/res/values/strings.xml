@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FlashCard</string>
+    <string name="hint_exam">Exam</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Exam not saved because it is empty.</string>
+    <string name="title_activity_input_card">InputCardActivity</string>
+    <string name="hint_questiion">Question</string>
+    <string name="hint_answer">Answer</string>
+    <string name="add_widget">Add card Widget</string>
+    <string name="appwidget_text">Card 1</string>
+    <string name="configure">Configure</string>
+    <string name="cards_empty_txt">Add Flash Cards and Start Studying</string>
+    <string name="nextButtonTxt">Next</string>
+    <string name="pre_btn">Prev</string>
+    <string name="question_lbl">Questions</string>
+    <string name="edit_add_card_btn">Edit</string>
+    <string name="button_delete">Delete</string>
+</resources>
